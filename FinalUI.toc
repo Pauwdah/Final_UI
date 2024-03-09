@@ -1,0 +1,17 @@
+## Interface: 11501
+## Title: FinalUI
+## Version: 0.1.alpha
+## Notes: Final Fantasy XIV inspired UI
+## IconTexture: Interface\AddOns\DBM-Core\textures\dbm_airhorn
+## DefaultState: enabled
+## Author: Pauwdah
+## X-Website: https://animamea.media
+
+
+
+libs\AceAddon-3.0\AceAddon-3.0.lua
+libs\AceDB-3.0\AceDB-3.0.lua
+Backdrop.lua
+FinalUI_Core.lua
+FinalUI_PlayerFrame.lua
+FinalUI_Options.lua
